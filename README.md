@@ -5,7 +5,7 @@
 $ python NN_train.py
 ```
 
-🔍テスト
+🔍 テスト
 ```
 $ python mnist_test.py
 ```
